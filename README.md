@@ -3,9 +3,9 @@
 My name is Ivan Muir and specialisation is front-end development. I'm creating fast, reliable and cool web applications ✨
 
 What I'm doing right now:
-- 💻 Working on my pet project.
-- 🔥 Doing opensource stuff.
-- 📙 Learning Svelte Kit.
+- 💻 Working on my pet project;
+- 🔥 Doing opensource stuff;
+- 📙 Delving into the TypeScript.
 
 
 My preffered technologies:
